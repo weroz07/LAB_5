@@ -9,6 +9,8 @@
 
 
 ## 1. Алгоритм и блок-схема
+<img width="221" height="931" alt="Диаграмма без названия drawio" src="https://github.com/user-attachments/assets/ed3814b5-3671-495b-9147-0ce8650dafc8" />
+
 
 <div align="center">
 
